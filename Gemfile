@@ -76,3 +76,4 @@ end
 
 gem 'devise'
 gem 'bootstrap', '~> 5.3.0.alpha3'
+gem "importmap-rails", "~> 1.1"
